@@ -1,0 +1,12 @@
+.img1 {
+  position: absolute;
+  width: 687px;
+  height: 654px;
+  left: 808px;
+  top: 167px;
+
+  background: url(thousand-01.png);
+}
+.container {
+  background-color: white;
+}

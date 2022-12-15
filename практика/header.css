@@ -1,0 +1,83 @@
+body {
+  max-width: 5588px;
+}
+
+.ellipse1 {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  left: 191px;
+  top: 45px;
+  border-radius: 50%;
+  background: #1abe84;
+}
+.ellipse2 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 204px;
+  top: 58px;
+  border-radius: 50%;
+  background: #fb8f1d;
+  border: 3px solid #ffffff;
+}
+.home {
+  position: absolute;
+  left: 46.69%;
+  right: 50.44%;
+  top: 1%;
+  bottom: 98.66%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: black;
+}
+.destinations {
+  position: absolute;
+  left: 51.75%;
+  right: 42.31%;
+  top: 1%;
+  bottom: 98.66%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #b8becd;
+}
+.about {
+  position: absolute;
+  left: 59.81%;
+  right: 37.31%;
+  top: 1%;
+  bottom: 98.66%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #b8becd;
+}
+.partner {
+  position: absolute;
+  left: 64.81%;
+  right: 31.62%;
+  top: 1%;
+  bottom: 98.66%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #b8becd;
+}
